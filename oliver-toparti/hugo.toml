@@ -1,0 +1,4 @@
+baseURL = 'topartio.github.io'
+languageCode = 'en-us'
+title = 'Oliver Toparti'
+theme = 'ananke'
